@@ -1,2 +1,2 @@
 # EPCC_CCII
-Repositorio a Ciencia de la Computacion II (teoria).
+Repositorio para el curso de Ciencia de la Computacion II (teoria).
