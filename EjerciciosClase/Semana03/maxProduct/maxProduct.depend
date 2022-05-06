@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1651848883 source:d:\proyectos_c++\epcc_ccii\ejerciciosclase\semana03\maxproduct\main.cpp
+	<iostream>
+	<limits>
+	<vector>
+

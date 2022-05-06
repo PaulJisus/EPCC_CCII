@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1651846186 source:d:\proyectos_c++\ada_lab\laboratorio_2\converttemperature\main.cpp
+	<iostream>
+	<iomanip>
+
