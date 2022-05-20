@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1653060850 source:d:\proyectos_c++\epcc_ccii\ejerciciosclase\semana06\converter\main.cpp
+	<iostream>
+	<vector>
+	<iterator>
+
