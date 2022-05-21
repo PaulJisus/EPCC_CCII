@@ -2,33 +2,44 @@
 #include <string>
 #include <map>
 #include <locale>
+#include <iomanip>
 
 using namespace std;
 
 int main()
 {
-    using str_size = std::string::size_type;
-    using count_map = std::map<std::string, int>;
-    count_map contador{};
+    std::map<std::string, int> contador{};
     std::string palabra{};
     while(std::cin >> palabra)
     {
         std::string auxiliar{};
         for(char c : palabra)
         {
-            if(std::isalnum(c, std::locale{" "}))
+            if(std::isalnum(c, std::locale{""}))
+            {
                 auxiliar.push_back(c);
+            }
         }
-        if(not auxiliar.empty())
+        if(!auxiliar.empty())
+        {
             ++contador[palabra];
+        }
     }
 
-     str_size largo{0};
-     for (auto pair : contador)
+    std::string::size_type largo{0};
+    for (auto pair : contador)
+    {
         if (pair.first.size() > largo)
+        {
             largo = pair.first.size();
+        }
+    }
 
+    constexpr int tam_cont{10};
     for(auto pair : contador)
-        std::cout << pair.first << '\t' << pair.second << '\n';
+    {
+        std::cout << setw(tam_cont) << pair.first << setw(tam_cont) << pair.second << '\n';
+    }
+
     return 0;
 }

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1653170813 source:d:\proyectos_c++\epcc_ccii\ejerciciosclase\semana05\letterhist\main.cpp
+	<iostream>
+	<string>
+	<algorithm>
+	<map>
+	<iomanip>
+

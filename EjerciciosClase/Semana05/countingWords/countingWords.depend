@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1653168173 source:d:\proyectos_c++\epcc_ccii\ejerciciosclase\semana05\countingwords\main.cpp
+	<iostream>
+	<string>
+	<map>
+	<locale>
+	<iomanip>
+
