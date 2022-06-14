@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1655180130 source:d:\proyectos_c++\epcc_ccii\segundaunidad\semana9\diamante\main.cpp
+	<iostream>
+	"diamante.h"
+
+1655179617 d:\proyectos_c++\epcc_ccii\segundaunidad\semana9\diamante\include\diamante.h
+	<iostream>
+	<sstream>
+	<string>
+
+1655180241 source:d:\proyectos_c++\epcc_ccii\segundaunidad\semana9\diamante\src\diamante.cpp
+	"diamante.h"
+

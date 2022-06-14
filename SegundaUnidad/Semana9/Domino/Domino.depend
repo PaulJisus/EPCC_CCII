@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1655179352 source:d:\proyectos_c++\epcc_ccii\segundaunidad\semana9\domino\main.cpp
+	<iostream>
+	"Domino.h"
+
+1655178481 d:\proyectos_c++\epcc_ccii\segundaunidad\semana9\domino\include\domino.h
+	<vector>
+	<iostream>
+	<algorithm>
+
+1655179244 source:d:\proyectos_c++\epcc_ccii\segundaunidad\semana9\domino\src\domino.cpp
+	"Domino.h"
+

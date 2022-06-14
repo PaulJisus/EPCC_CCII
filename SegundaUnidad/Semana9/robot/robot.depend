@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1655176118 source:d:\proyectos_c++\epcc_ccii\segundaunidad\semana9\robot\main.cpp
+	<iostream>
+	"robot.h"
+
+1655176145 d:\proyectos_c++\epcc_ccii\segundaunidad\semana9\robot\include\robot.h
+	<iostream>
+	<sstream>
+	<vector>
+	<random>
+	<chrono>
+
+1655175582 source:d:\proyectos_c++\epcc_ccii\segundaunidad\semana9\robot\src\robot.cpp
+	"robot.h"
+

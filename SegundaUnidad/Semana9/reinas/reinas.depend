@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1655182194 source:d:\proyectos_c++\epcc_ccii\segundaunidad\semana9\reinas\main.cpp
+	<iostream>
+	"reinas.h"
+
+1655182194 d:\proyectos_c++\epcc_ccii\segundaunidad\semana9\reinas\include\reinas.h
+	<vector>
+	<iostream>
+	<string>
+
+1655182204 source:d:\proyectos_c++\epcc_ccii\segundaunidad\semana9\reinas\src\reinas.cpp
+	"reinas.h"
+

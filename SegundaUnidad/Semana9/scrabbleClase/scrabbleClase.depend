@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1655174079 source:d:\proyectos_c++\epcc_ccii\segundaunidad\semana9\scrabbleclase\main.cpp
+	<iostream>
+	"Scrabble.h"
+
+1655174634 d:\proyectos_c++\epcc_ccii\segundaunidad\semana9\scrabbleclase\include\scrabble.h
+	<iostream>
+	<vector>
+	<string>
+	<chrono>
+	<random>
+	"Ficha.h"
+
+1655174100 d:\proyectos_c++\epcc_ccii\segundaunidad\semana9\scrabbleclase\include\ficha.h
+	<iostream>
+
+1655173050 source:d:\proyectos_c++\epcc_ccii\segundaunidad\semana9\scrabbleclase\src\ficha.cpp
+	"Ficha.h"
+
+1655174634 source:d:\proyectos_c++\epcc_ccii\segundaunidad\semana9\scrabbleclase\src\scrabble.cpp
+	"Scrabble.h"
+

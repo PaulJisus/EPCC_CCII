@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1655172201 source:d:\proyectos_c++\epcc_ccii\segundaunidad\semana9\histogramatemplate\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	"histogramaTemplate.h"
+
+1655172535 d:\proyectos_c++\epcc_ccii\segundaunidad\semana9\histogramatemplate\include\histogramatemplate.h
+	<iostream>
+	<vector>
+	<algorithm>
+
+1655163340 source:d:\proyectos_c++\epcc_ccii\segundaunidad\semana9\histogramatemplate\src\histogramatemplate.cpp
+	"histogramaTemplate.h"
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1655177776 source:d:\proyectos_c++\epcc_ccii\segundaunidad\semana9\simuladorrobot\main.cpp
+	<iostream>
+	"simuladorRobot.h"
+
+1655177765 d:\proyectos_c++\epcc_ccii\segundaunidad\semana9\simuladorrobot\include\simuladorrobot.h
+	<iostream>
+	<string>
+
