@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1656367830 source:d:\proyectos_c++\epcc_ccii\segundaunidad\semana11\racional\main.cpp
+	<iostream>
+	"Racional.h"
+
+1656367900 source:d:\proyectos_c++\epcc_ccii\segundaunidad\semana11\racional\src\racional.cpp
+	"Racional.h"
+	<numeric>
+
+1656367753 d:\proyectos_c++\epcc_ccii\segundaunidad\semana11\racional\include\racional.h
+	<iostream>
+

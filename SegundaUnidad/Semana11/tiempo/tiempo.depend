@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1656378374 source:d:\proyectos_c++\epcc_ccii\segundaunidad\semana11\tiempo\main.cpp
+	<iostream>
+	"Tiempo.h"
+
+1656378198 d:\proyectos_c++\epcc_ccii\segundaunidad\semana11\tiempo\include\tiempo.h
+	<iostream>
+
+1656378277 source:d:\proyectos_c++\epcc_ccii\segundaunidad\semana11\tiempo\src\tiempo.cpp
+	"Tiempo.h"
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1656380769 source:d:\proyectos_c++\epcc_ccii\segundaunidad\semana11\cuadratico\main.cpp
+	<iostream>
+	"Cuadratico.h"
+
+1656380596 d:\proyectos_c++\epcc_ccii\segundaunidad\semana11\cuadratico\include\cuadratico.h
+	<iostream>
+
+1656380797 source:d:\proyectos_c++\epcc_ccii\segundaunidad\semana11\cuadratico\src\cuadratico.cpp
+	"Cuadratico.h"
+

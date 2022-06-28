@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1656385026 source:d:\proyectos_c++\epcc_ccii\segundaunidad\semana11\pila\src\node.cpp
+	"Node.h"
+
+1656384966 d:\proyectos_c++\epcc_ccii\segundaunidad\semana11\pila\include\node.h
+	<iostream>
+
+1656386594 source:d:\proyectos_c++\epcc_ccii\segundaunidad\semana11\pila\src\stack.cpp
+	"Stack.h"
+
+1656386213 d:\proyectos_c++\epcc_ccii\segundaunidad\semana11\pila\include\stack.h
+	<iostream>
+	"Node.h"
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1656302838 source:d:\proyectos_c++\ada_lab\laboratorio_8\contador\main.cpp
+	<iostream>
+	"Contador.h"
+
+1656302791 d:\proyectos_c++\ada_lab\laboratorio_8\contador\include\contador.h
+	<iostream>
+
+1656302804 source:d:\proyectos_c++\ada_lab\laboratorio_8\contador\src\contador.cpp
+	"Contador.h"
+
