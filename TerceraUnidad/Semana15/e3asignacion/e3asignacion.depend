@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1658770009 source:d:\proyectos_c++\epcc_ccii\terceraunidad\semana15\e3asignacion\main.cpp
+	<iostream>
+	"LinkedList.h"
+
+1658767939 d:\proyectos_c++\epcc_ccii\terceraunidad\semana15\e3asignacion\include\node.h
+
+1658769890 d:\proyectos_c++\epcc_ccii\terceraunidad\semana15\e3asignacion\include\linkedlist.h
+	<iostream>
+	<utility>
+	"Node.h"
+
+1658770151 source:d:\proyectos_c++\epcc_ccii\terceraunidad\semana15\e3asignacion\src\linkedlist.cpp
+	"Node.h"
+	"LinkedList.h"
+
+1658767950 source:d:\proyectos_c++\epcc_ccii\terceraunidad\semana15\e3asignacion\src\node.cpp
+	"Node.h"
+
